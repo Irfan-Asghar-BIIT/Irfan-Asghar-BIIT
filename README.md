@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irfan-Asghar-BIIT
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning Dotnet Core
 - 💞️ I’m looking to collaborate on remote job
 - 📫 How to reach me contact me at 03464928996
 
